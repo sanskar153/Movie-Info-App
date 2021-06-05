@@ -1,0 +1,34 @@
+#searchh1 {
+    margin-top: 20%;
+    background-color: black;
+    color: burlywood;
+}
+
+#searchTitle {
+    color: burlywood;
+}
+
+body {
+    background: url(bg.jpg);
+}
+
+.card-title {
+    font-family: Lato;
+}
+
+.card {
+    margin-left: 12.5%;
+}
+
+.card-img {
+    height: 24rem;
+}
+
+#searchHeading {
+    color: burlywood;
+    margin-left: 12.5%;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    font-family: Montserrat;
+    font-weight: 700;
+}
