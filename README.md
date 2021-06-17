@@ -3,6 +3,8 @@ Using Node.Js,Express.Js  <br>
 
 An Movie Info app which provide the rating and other info with the help of jason file API.
 
+[Click here to the Website](https://movieinfo-app-api.herokuapp.com/search)
+
 # SCREENSHOTS
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/79687388/121927836-24eb8700-cd5d-11eb-9733-6a66f87eb11e.png)
