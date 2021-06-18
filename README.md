@@ -3,7 +3,9 @@ Using Node.Js,Express.Js  <br>
 
 An Movie Info app that provides the rating and other info with the help of Jason file API.
 
-[Click here to the Website](https://movieinfo-app-api.herokuapp.com/search)
+# LINK TO THE WEBSITE
+
+[CLICK HERE](https://movieinfo-app-api.herokuapp.com/search)
 
 # Screenshots
 
